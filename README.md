@@ -1,1 +1,1 @@
-# Basic Statistics using Python
+# Statistics using Python
